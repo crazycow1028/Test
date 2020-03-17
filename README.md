@@ -1,2 +1,2 @@
 # Test
-A test repository to belinked with RStudio
+A test repository to be linked with RStudio
